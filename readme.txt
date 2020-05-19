@@ -1,1 +1,1 @@
-VVERSION: todo-app-1.1-SNAPSHOT
+VVERSION: todo-app-1.1
