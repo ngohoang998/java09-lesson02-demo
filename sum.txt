@@ -1,3 +1,8 @@
 private int sum(int a, int b) {
+    if (a + b > Integer.MAX_VALUE) {
+	Log.info("sum of a & b is over int value");
+	return Integer.MAX_VALUE;
+} 
+
     return a + b;
 }
